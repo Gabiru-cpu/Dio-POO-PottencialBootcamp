@@ -1,0 +1,15 @@
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/bin/Debug/net7.0/POO-Dio
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/bin/Debug/net7.0/POO-Dio.deps.json
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/bin/Debug/net7.0/POO-Dio.runtimeconfig.json
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/bin/Debug/net7.0/POO-Dio.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/bin/Debug/net7.0/POO-Dio.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.csproj.AssemblyReference.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.AssemblyInfoInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.AssemblyInfo.cs
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.csproj.CoreCompileInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/refint/POO-Dio.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.genruntimeconfig.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/ref/POO-Dio.dll
