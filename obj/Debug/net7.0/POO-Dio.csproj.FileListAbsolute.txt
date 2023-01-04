@@ -13,3 +13,18 @@
 /run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.pdb
 /run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/POO-Dio.genruntimeconfig.cache
 /run/media/gabriel/HD Hitachi/DEV/DIO/POO-Dio/obj/Debug/net7.0/ref/POO-Dio.dll
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.csproj.AssemblyReference.cache
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.AssemblyInfoInputs.cache
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.AssemblyInfo.cs
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.csproj.CoreCompileInputs.cache
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.dll
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\refint\POO-Dio.dll
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.pdb
+F:\DEV\DIO\POO-Dio\bin\Debug\net7.0\POO-Dio.exe
+F:\DEV\DIO\POO-Dio\bin\Debug\net7.0\POO-Dio.deps.json
+F:\DEV\DIO\POO-Dio\bin\Debug\net7.0\POO-Dio.runtimeconfig.json
+F:\DEV\DIO\POO-Dio\bin\Debug\net7.0\POO-Dio.dll
+F:\DEV\DIO\POO-Dio\bin\Debug\net7.0\POO-Dio.pdb
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\POO-Dio.genruntimeconfig.cache
+F:\DEV\DIO\POO-Dio\obj\Debug\net7.0\ref\POO-Dio.dll

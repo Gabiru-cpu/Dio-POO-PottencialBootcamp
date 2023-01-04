@@ -5,15 +5,16 @@ using System.Threading.Tasks;
 
 namespace POO_Dio.Models
 {
-    public class Professor : People
+    //selando classes e metodos sintaxe: ###   sealed   ###   
+    public sealed class Diretor : People
     {
-    public Professor(string nome) : base(nome)
+    public Diretor(string nome) : base(nome)
     {
         
     }
         public decimal Salario { get; set; }
 
-        public override void ShowName()
+        public sealed override void ShowName()
         {
             Console.WriteLine($"Nome: {Nome} Idade: {Idade} Salario: {Salario}");
         }
